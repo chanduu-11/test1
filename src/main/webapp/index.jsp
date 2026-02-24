@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ashok IT Courses Demo</title>
+  <title>My first website</title>
   <style>
     body {
       font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -110,8 +110,8 @@
 <body>
 
   <header>
-    <h1>🚀 Ashok IT Courses</h1>
-    <p>Upgrade your career with our industry-ready training programs</p>
+    <h1>My Portfolio</h1>
+    <p>My name is Kavya</p>
   </header>
 
   <div class="container">
