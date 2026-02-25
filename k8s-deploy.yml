@@ -18,7 +18,7 @@ spec:
   spec: 
     containers:
     - name: mavenwebappcontainer
-      image: rkavya/mavenwebapp
+      image: rkavya/mavenwebapp:latest
       imagePullPolicy: Always
       ports:
       - containerPort: 8080
