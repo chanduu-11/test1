@@ -84,9 +84,9 @@
   <div class="card">
     <h2>About Me</h2>
     <p>
-      I am passionate about building scalable and automated cloud solutions.
-      This project demonstrates a complete CI/CD pipeline using
-      Git, Jenkins, Maven, Docker, and Kubernetes deployed on AWS EKS.
+I am passionate about designing scalable cloud architectures and implementing automated DevOps practices. 
+With practical experience in CI/CD pipeline development using Git, Jenkins, Maven, Docker, and Kubernetes, 
+I specialize in streamlining software delivery through automation.
     </p>
 
 <%
