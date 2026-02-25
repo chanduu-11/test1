@@ -77,7 +77,7 @@
 
 <header>
   <h1>Hi, Welcome to My Portfolio</h1>
-  <p>SRE | DevOps Engineer | CI/CD | Kubernetes | Cloud Enthusiast</p>
+  <p>SRE | Cloud Enthusiast</p>
 </header>
 
 <div class="section">
