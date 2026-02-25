@@ -108,7 +108,7 @@
 </div>
 
 <footer>
-  © <%= java.time.Year.now() %> Kavya | Website built using DevOps
+  Kavya's Portfolio built using DevOps
 </footer>
 
 </body>
