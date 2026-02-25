@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My first website</title>
+  <title>Welcome to my first cicd project</title>
   <style>
     body {
       font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -110,47 +110,9 @@
 <body>
 
   <header>
-    <h1>My Portfolio</h1>
-    <p>My name is Kavya</p>
+    <h1>Welcome to my first cicd project</h1>
+    <p>Built using git, jenkins, maven, docker, kubernetes </p>
   </header>
-
-  <div class="container">
-    <div class="course-card">
-      <div class="course-icon"><i class="fab fa-java"></i></div>
-      <div class="course-title">Java Full Stack Development</div>
-      <div class="course-desc">
-        Master Core Java, Spring Boot, Microservices, Angular, React & more to become a job-ready full-stack developer.
-      </div>
-      <a href="#" class="btn">Enroll Now</a>
-    </div>
-
-    <div class="course-card">
-      <div class="course-icon"><i class="fab fa-python"></i></div>
-      <div class="course-title">Python Full Stack Development</div>
-      <div class="course-desc">
-        Learn Python, Django, REST APIs, React, and advanced deployment strategies for real-world projects.
-      </div>
-      <a href="#" class="btn">Enroll Now</a>
-    </div>
-
-    <div class="course-card">
-      <div class="course-icon"><i class="fas fa-cloud"></i></div>
-      <div class="course-title">DevOps with AWS</div>
-      <div class="course-desc">
-        Get hands-on with Docker, Kubernetes, Jenkins, Terraform & AWS Cloud to launch your DevOps career.
-      </div>
-      <a href="#" class="btn">Enroll Now</a>
-    </div>
-
-    <div class="course-card">
-      <div class="course-icon"><i class="fas fa-robot"></i></div>
-      <div class="course-title">Data Science & AI</div>
-      <div class="course-desc">
-        Become industry-ready with Machine Learning, Python, Deep Learning, NLP, and real-time data projects.
-      </div>
-      <a href="#" class="btn">Enroll Now</a>
-    </div>
-  </div>
 
 </body>
 </html>
