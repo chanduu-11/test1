@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Kavya | DevOps Portfolio</title>
+  <title>Chandu | DevOps Portfolio</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <style>
@@ -99,7 +99,7 @@ I specialize in streamlining software delivery through automation.
 <h3>Deployment Time (IST):</h3>
 <p><strong><%= istTime.format(formatter) %></strong></p>
 
-    <a href="https://www.linkedin.com/in/kavya-r-b2a29417b/"
+    <a href="https://www.linkedin.com/in/Chandushree/"
        target="_blank"
        class="btn">
        Connect with me on LinkedIn
